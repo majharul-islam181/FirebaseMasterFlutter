@@ -1,6 +1,5 @@
 # firebase_master_flutter
 
-5️⃣6️⃣7️⃣8️⃣9️⃣1️⃣0️⃣
 
 1️⃣ First run this command: 
 
@@ -77,6 +76,16 @@ if available the run
 ```
 C:\Users\User\AppData\Local\Pub\Cache\bin\flutterfire.bat configure
  ```
+
+5️⃣ Then
+```
+Select the platfrom and if they want package name: com.example.firebase_master_flutter
+```
+
+*After that fireabse will successfully added with your project*
+
+
+
 
 
 
