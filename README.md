@@ -79,8 +79,15 @@ C:\Users\User\AppData\Local\Pub\Cache\bin\flutterfire.bat configure
 
 5️⃣ Then
 ```
-Select the platfrom and if they want package name: com.example.firebase_master_flutter
+flutterfire configure
 ```
+then it will show like: 
+*`? Which platforms would you like to configure? (Use arrow keys)
+  [ ] Android
+  [ ] iOS
+`*
+
+Select the platfrom and if they want package name: com.example.firebase_master_flutter
 
 *After that fireabse will successfully added with your project*
 
